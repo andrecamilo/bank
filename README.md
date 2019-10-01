@@ -30,3 +30,6 @@ ng -s
 npm install  --save @angular/material @angular/cdk
 npm install --save @angular/animations
 npm install bootstrap --save
+ng g component header
+ng g component content
+ng g component footer

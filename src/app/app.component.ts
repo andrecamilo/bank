@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import {MatDialog} from '@angular/material';
+import { MatDialog } from '@angular/material';
 
 
 
@@ -9,8 +9,8 @@ import {MatDialog} from '@angular/material';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  
-  constructor(public dialog: MatDialog) {}
+
+  constructor(public dialog: MatDialog) { }
 
   title = 'trainig-bank';
 
